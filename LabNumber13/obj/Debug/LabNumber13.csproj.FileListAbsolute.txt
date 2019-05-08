@@ -1,0 +1,7 @@
+C:\Users\Richie\source\repos\LabNumber13\LabNumber13\obj\Debug\LabNumber13.csprojAssemblyReference.cache
+C:\Users\Richie\source\repos\LabNumber13\LabNumber13\obj\Debug\LabNumber13.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\LabNumber13\LabNumber13\bin\Debug\LabNumber13.exe.config
+C:\Users\Richie\source\repos\LabNumber13\LabNumber13\bin\Debug\LabNumber13.exe
+C:\Users\Richie\source\repos\LabNumber13\LabNumber13\bin\Debug\LabNumber13.pdb
+C:\Users\Richie\source\repos\LabNumber13\LabNumber13\obj\Debug\LabNumber13.exe
+C:\Users\Richie\source\repos\LabNumber13\LabNumber13\obj\Debug\LabNumber13.pdb
